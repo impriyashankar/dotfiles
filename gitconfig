@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = preiyah@gmail.com
+	name = priya shankar
